@@ -101,7 +101,7 @@
 		50A1150D1D36585F007EEE56 /* WatchMeFartUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WatchMeFartUITests.m; sourceTree = "<group>"; };
 		50A1150F1D36585F007EEE56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		50A1151D1D365C3A007EEE56 /* Watch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Watch.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		50A115201D365C3A007EEE56 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
+		50A115201D365C3A007EEE56 /* Base */ = {isa = PBXFileReference; explicitFileType = image.jpeg; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
 		50A115221D365C3A007EEE56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50A115241D365C3A007EEE56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		50A115291D365C3A007EEE56 /* Watch Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Watch Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
